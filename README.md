@@ -4,4 +4,4 @@
 
 ## 1) NodeMCU ESP-8266 & HARDWARE 
 
-![Image](https://github.com/zahiruddinzainal/MyTutorApp/blob/master/screenshot/b_tutorapp1.PNG)
+![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/poc.jpg)
