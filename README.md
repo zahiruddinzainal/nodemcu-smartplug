@@ -10,4 +10,9 @@
 
 ![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/smartplugapp.PNG)
 
+## 3) Smart Plug App - Ionic Angular 
+
+![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/smartplugapp2.PNG)
+
+
 
