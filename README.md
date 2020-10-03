@@ -5,3 +5,9 @@
 ## 1) NodeMCU ESP-8266 & HARDWARE 
 
 ![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/poc.jpg)
+
+## 2) Smart Plug App - Android Java 
+
+![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/smartplugapp.PNG)
+
+
