@@ -8,7 +8,7 @@
 
 ## 2) Smart Plug App - Android Java 
 
-![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/smartplugapp.PNG)
+![Image](https://github.com/zahiruddinzainal/nodemcu-smartplug/blob/main/smartplug.PNG)
 
 ## 3) Smart Plug App - Ionic Angular 
 
